@@ -1,7 +1,7 @@
 {
   "name": "telegram-agent-by-nova",
   "version": "1.0.0",
-  "description": "I use your linked Telegram MTProto session (Integrations \u2192 Telegram) to list groups, members, and send DMs",
+  "description": "List Telegram chats and group members, resolve users, and send messages from a linked account.",
   "author": {
     "name": "CIVAI TECHNOLOGIES",
     "email": "nifemialpine@nova.civai.co"
